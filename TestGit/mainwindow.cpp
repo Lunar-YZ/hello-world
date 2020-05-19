@@ -16,6 +16,7 @@ MainWindow::MainWindow(QWidget *parent)
   // add 101
 
   // add 110
+  // add 111
 }
 
 MainWindow::~MainWindow() { delete ui; }
