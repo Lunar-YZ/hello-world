@@ -6,7 +6,7 @@ MainWindow::MainWindow(QWidget *parent)
   ui->setupUi(this);
   // 1
   // add 11
-  // add 22
+  // add 23
   // add 33
   // add 44
   // add 55
